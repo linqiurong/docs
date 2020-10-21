@@ -22,6 +22,7 @@ module.exports = {
         'FastAdmin'
       ],
       '/frontend/': [
+        'HTML',
         'CSS',
         'TypeScript',
         'Vue2',
